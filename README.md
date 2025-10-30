@@ -1,4 +1,5 @@
-# knowledge_graph
+My complete chat with the LLM (Chat GPT) is available on this link, one can use this for evaluation
+https://chatgpt.com/share/6903ee93-6e34-8002-910d-c30640b56b28
 
 📘 NLP Preprocessing & Coreference Resolution Pipeline
 
