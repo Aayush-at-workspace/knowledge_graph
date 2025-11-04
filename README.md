@@ -36,6 +36,7 @@ Ensure you have Python 3.10 and install the dependencies:
 
 pip install spacy==3.3.3 coreferee==1.3.0 jupyter
 pip install huggingface_hub==0.20.3
+pip install transformers 
 # 1. Install AllenNLP and AllenNLP models
 pip install allennlp==2.10.1
 pip install allennlp-models==2.10.1
