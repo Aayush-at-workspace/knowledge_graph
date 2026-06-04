@@ -1,3 +1,4 @@
+<img width="1061" height="780" alt="Screenshot 2026-06-04 124012" src="https://github.com/user-attachments/assets/5672f665-4a26-4846-8372-7177e2842ecc" />
 # This is a Knowledge Graph Builder that automatically extracts structured knowledge from unstructured text documents. The system identifies entities, actions, relationships, emotions, and personality-related information from narrative text and represents them as a multi-layer graph.
 
 📘 NLP Preprocessing & Coreference Resolution Pipeline
