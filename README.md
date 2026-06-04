@@ -1,5 +1,4 @@
-My complete chat with the LLM (Chat GPT) is available on this link, one can use this for evaluation
-https://chatgpt.com/share/6903ee93-6e34-8002-910d-c30640b56b28
+# This is a Knowledge Graph Builder that automatically extracts structured knowledge from unstructured text documents. The system identifies entities, actions, relationships, emotions, and personality-related information from narrative text and represents them as a multi-layer graph.
 
 📘 NLP Preprocessing & Coreference Resolution Pipeline
 
